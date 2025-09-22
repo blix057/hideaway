@@ -40,3 +40,22 @@ Icon
 # Temporary files
 *.tmp
 temp/
+
+# External repositories
+nanomdm/
+
+# Built applications
+*.app
+*.dmg
+*.pkg
+build/
+dist/
+*.spec
+
+# PyInstaller artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
